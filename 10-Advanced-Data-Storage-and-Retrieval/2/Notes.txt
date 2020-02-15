@@ -1,0 +1,16 @@
+T-Test: variability between mean
+
+A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.Oct 8, 2019
+
+to wrap line statments 
+use (
+
+
+)
+or \ at the end of a line
+
+
+
+
+Python filter word 
+is same as sQL where word

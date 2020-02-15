@@ -1,4 +1,4 @@
-# SQLAlchemy Homework - Surfs Up!
+﻿# SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
 
@@ -80,16 +80,16 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * `/api/v1.0/precipitation`
 
-  * Convert the query results to a Dictionary using `date` as the key and `prcp` as the value.
+DONE  * Convert the query results to a Dictionary using `date` as the key and `prcp` as the value.
 
   * Return the JSON representation of your dictionary.
 
-* `/api/v1.0/stations`
+DONE * `/api/v1.0/stations`
 
   * Return a JSON list of stations from the dataset.
 
 * `/api/v1.0/tobs`
-  * query for the dates and temperature observations from a year from the last data point.
+DONE  * query for the dates and temperature observations from a year from the last data point.
   * Return a JSON list of Temperature Observations (tobs) for the previous year.
 
 * `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`
